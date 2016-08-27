@@ -7,7 +7,7 @@ from fileIO import *
 
 
 rootURL = r"thepiratebay.org"
-categoryURL = r"/browse/201/2/3"
+categoryURL = r"/browse/501/2/3"
 rootURLfilename = "root.raw"
 port = 443
 
